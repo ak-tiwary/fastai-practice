@@ -1,0 +1,3 @@
+[submodule "data/facial_expressions"]
+	path = data/facial_expressions
+	url = https://github.com/muxspace/facial_expressions
