@@ -8,4 +8,7 @@ ipympl
 ipyvolume
 scipy
 voila
+azure-cognitiveservices-search-imagesearch
+sentencepiece
+fastbook
 
