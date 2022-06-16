@@ -1,0 +1,18 @@
+name: voila-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pandas
+  - matplotlib
+  - scipy
+  - numpy
+  - pytorch
+  - jupyterlab
+  - jupyter
+  - fastai
+  - fastbook
+  - voila
+  - sentencepiece
+prefix: /Users/akshay/miniforge3/envs/voila-env
